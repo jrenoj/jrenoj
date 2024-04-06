@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jrenoj
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science, Machine Learning, & Trying Different GNU/Linus Distros
 - 🌱 I’m currently learning SciKit-Learn
 - 💞️ I’m looking to collaborate on Open-Source Projects involving Large Data Sets 
 - 📫 How to reach me: burneremail1042@gmail.com
