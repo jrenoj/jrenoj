@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Open-Source Projects involving Large Data Sets 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing classical guitar when I'm not coding - or doing both simultaneously
+- EMAIL: contact.jrenoj@gmail.com
 
 <!---
 jrenoj/jrenoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
