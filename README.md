@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **more about machine learning**
 
-- 👨‍💻 All of my projects are available at [www.jrenoj.com](www.jrenoj.com)
-
 - 📫 How to reach me **contact.jrenoj@gmail.com**
 
 - 📄 Know about my experiences [https://jrenoj.com/documents/redacted_resume.pdf](https://jrenoj.com/documents/redacted_resume.pdf)
